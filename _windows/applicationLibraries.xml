@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="jars">
+      <CLASSES>
+        <root url="file://C:/aihua/jars" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://C:/aihua/jars" recursive="false" />
+    </library>
+  </component>
+</application>
