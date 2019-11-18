@@ -30,9 +30,13 @@
           <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/graphql-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/rsa/graphql-server" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\U6080849\IdeaProjects\graphql-server" />
+    <option name="cloneParentDir" value="C:\Users\U6080849\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
