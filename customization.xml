@@ -7,21 +7,14 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.CompareWithBranch" is_action="true" action_type="1" position="8">
+    <group value="Git.Unstash" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.Unstash" is_action="true" action_type="1" position="9">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <path value="VCS Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Git.Stash" is_action="true" action_type="1" position="10">
+    <group value="Git.Stash" is_action="true" action_type="1" position="9">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
