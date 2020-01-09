@@ -4,9 +4,14 @@
       <mapping ext="gql" type="GraphQL" />
       <removed_mapping ext="graphqls" approved="true" type="GraphQL" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="aux-file-key" type="PLAIN_TEXT" />
+      <mapping pattern="*.*" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
+      <removed_mapping pattern="aux-file-key*.*" approved="true" type="YAML" />
+      <removed_mapping pattern="sdl-file-key*" approved="true" type="GraphQL" />
+      <removed_mapping pattern="aux-file-key" approved="true" type="YAML" />
+      <removed_mapping pattern="sdl-file-key*.*" approved="true" type="GraphQL" />
       <removed_mapping ext="graphqls" approved="true" type="GraphQL" />
+      <removed_mapping pattern="aux-file-key*" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
