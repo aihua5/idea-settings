@@ -1,0 +1,13 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="1">
+      <action id="EditorEnter" />
+      <action id="EditorPaste" />
+    </macro>
+    <macro name="2">
+      <action id="Find" />
+      <action id="EditorEnter" />
+      <action id="EditorPaste" />
+    </macro>
+  </component>
+</application>
