@@ -2,21 +2,21 @@
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
     <group value="OpenFileInConsoleToolbarAction" is_action="true" action_type="-1" position="13">
       <path value="root" />
-      <path value="主工具栏" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Git.Merge" is_action="true" action_type="1" position="7">
       <path value="root" />
-      <path value="主工具栏" />
+      <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
-      <path value="VCS 操作" />
+      <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ChangesView.Shelve" is_action="true" action_type="1" position="8">
       <path value="root" />
-      <path value="主工具栏" />
+      <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
-      <path value="VCS 操作" />
+      <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
