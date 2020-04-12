@@ -1,0 +1,22 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="I am hearing reports about people losing their AWS Prod access. If this has happened to you please let me know" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="1" />
+        <entry key="CROATIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ENGLISH" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
