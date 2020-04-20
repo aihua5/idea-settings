@@ -103,7 +103,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
-                      <option name="grepExpression" value=".*AmazonCloudWatchException.*" />
+                      <option name="grepExpression" value=".*CloudWatchClient.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
                   </list>
