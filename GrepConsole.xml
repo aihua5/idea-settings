@@ -95,10 +95,10 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
-                      <option name="grepExpression" value=".*Monitor.*" />
+                      <option name="grepExpression" value=".*AmazonCloudWatchException.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="action" value="REMOVE_UNLESS_PREVIOUSLY_MATCHED" />
+                      <option name="action" value="REMOVE" />
                       <option name="grepExpression" value=".*SegmentNotFoundException.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
