@@ -95,17 +95,14 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*AmazonCloudWatchException.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*SegmentNotFoundException.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*CloudWatchClient.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
