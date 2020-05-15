@@ -4,8 +4,6 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
-          <option name="enableMaxLengthGrepLimit" value="false" />
-          <option name="enableMaxLengthLimit" value="false" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
