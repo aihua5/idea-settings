@@ -5,6 +5,7 @@
       <mapping ext="gql" type="GraphQL" />
       <removed_mapping ext="graphqls" approved="true" type="GraphQL" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping pattern="aux-file-key*" type="YAML" />
       <removed_mapping pattern="aux-file-key*.*" approved="true" type="YAML" />
