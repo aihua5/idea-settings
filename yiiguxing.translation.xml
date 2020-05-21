@@ -27,5 +27,6 @@
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="targetLanguageSelection" value="LAST" />
+    <option name="translator" value="ai.youdao" />
   </component>
 </application>
