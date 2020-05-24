@@ -10,4 +10,11 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="SBT.system.in.process" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="cn.yiiguxing.plugin.translate.ui.TranslatorWidget" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
