@@ -117,7 +117,6 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="maxLengthToGrep" value="100" />
           <option name="maxLengthToMatch" value="1200" />
           <option name="name" value="default" />
         </Profile>
