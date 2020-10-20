@@ -86,6 +86,10 @@
           <option name="url" value="https://git.sami.int.thomsonreuters.com/cloud-solutions-architecture/pcp-cloud-connect-documentation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/Research/aws-hsec-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\U6080849\IdeaProjects" />
