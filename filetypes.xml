@@ -1,11 +1,20 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="apk" type="ARCHIVE" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <removed_mapping ext="apk" approved="true" type="APK" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="graphqls" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping pattern="aux-file-key*" type="YAML" />
+      <removed_mapping pattern="*.*" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="graphqls" approved="true" type="GraphQL" />
+      <removed_mapping pattern="aux-file-key" approved="true" type="YAML" />
+      <removed_mapping pattern="aux-file-key*.*" approved="true" type="YAML" />
+      <removed_mapping pattern="sdl-file-key*.*" approved="true" type="GraphQL" />
+      <mapping ext="gql" type="GraphQL" />
+      <mapping pattern="sdl-file-key*" type="GraphQL" />
     </extensionMap>
   </component>
 </application>

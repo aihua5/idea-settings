@@ -1,0 +1,120 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/graphql-server" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.sami.int.thomsonreuters.com" />
+          <option name="userName" value="Aihua.Wu" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/jersey-application-graphql" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/graphql-java/tutorials/tree/master/book-details" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/graphql-java/tutorials" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/graphql-server/tree/EDS-3614" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/graphql-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/rsa/graphql-server" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/graphql-java/graphql-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/howtographql/graphql-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/neo4j-graphql/neo4j-graphql-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/EDS-GASS.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/bulk/bulk-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/jersey-application-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/aws-xray-extension.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/EDS-Bulk-ParameterStoreConsumer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/aws-xray-extension-eds.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/EDS-Logging-Events.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/graphql-server-spring.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/burtcorp/jmespath-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/cloud-solutions-architecture/pcp-cloud-connect-documentation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/Research/aws-hsec-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/daapi-usage.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\Users\U6080849\IdeaProjects" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+      </list>
+    </option>
+    <option name="COLUMN_ID_VISIBILITY">
+      <map>
+        <entry key="Table.Default.Hash.ColumnIdVisibility" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
+</application>
