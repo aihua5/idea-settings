@@ -9,9 +9,17 @@
         </option>
       </SuppressingContext>
     </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="ASTURIAN" />
+          </set>
+        </option>
+      </State>
+    </option>
     <option name="checkingContext">
       <CheckingContext>
-        <option name="isCheckInCommitMessagesEnabled" value="true" />
         <option name="isCheckInStringLiteralsEnabled" value="true" />
       </CheckingContext>
     </option>
