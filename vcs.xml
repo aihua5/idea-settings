@@ -98,6 +98,14 @@
           <option name="url" value="https://git.sami.int.thomsonreuters.com/DAAPI/dal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sdp.refinitiv.com/205941/daapiv2" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.sdp.refinitiv.com" />
+          <option name="userName" value="aihua.wu" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\U6080849\IdeaProjects" />
