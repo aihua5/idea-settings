@@ -4,6 +4,16 @@
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
@@ -23,6 +33,9 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
