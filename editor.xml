@@ -9,7 +9,7 @@
       <map>
         <entry key="inheritors" value="Default" />
         <entry key="problems" value="Default" />
-        <entry key="references" value="Default" />
+        <entry key="references" value="Top" />
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
@@ -31,11 +31,11 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
+    <option name="lastViewedProviderKeyId" value=".inheritors" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
