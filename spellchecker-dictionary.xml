@@ -4,6 +4,7 @@
       <w>healthcheck</w>
       <w>refinitiv</w>
       <w>reutersuuid</w>
+      <w>searchstring</w>
     </words>
   </component>
 </application>
