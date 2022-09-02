@@ -134,6 +134,10 @@
           <option name="url" value="https://gitlab.sdp.refinitiv.com/205941/graphql-to-json-schema.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/DAAPI/binary-api" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\U6080849\IdeaProjects" />
