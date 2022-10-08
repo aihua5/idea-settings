@@ -146,6 +146,14 @@
           <option name="url" value="https://gitlab.sdp.refinitiv.com/206464/standard-bulk-packages.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring2go/graphql_event_app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:spring2go/graphql_event_app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\U6080849\IdeaProjects" />
