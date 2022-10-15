@@ -154,6 +154,10 @@
           <option name="url" value="git@github.com:spring2go/graphql_event_app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/EDS-Bulk-Delivery-Workstream/daapi-usage" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\U6080849\IdeaProjects" />
