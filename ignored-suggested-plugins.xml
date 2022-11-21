@@ -4,6 +4,10 @@
       <list>
         <option value="aws.toolkit" />
         <option value="TestNG-J" />
+        <option value="org.dynamodb4idea" />
+        <option value="idea.plugin.protoeditor" />
+        <option value="org.dynamodb4idea" />
+        <option value="idea.plugin.protoeditor" />
       </list>
     </option>
   </component>
